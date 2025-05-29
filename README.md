@@ -30,7 +30,7 @@ This is a full-stack web application built with the MERN stack (MongoDB, Express
 
 ## 📌 Notes
 🔒 Codebase is private.  
-📫 Contact me if you'd like to discuss this project further or see a live demo!
+📫 Contact me if you would like more info.
 
 ---
 
